@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 .active {
-    color: blue;
+    color: red;
     cursor: default;
 }

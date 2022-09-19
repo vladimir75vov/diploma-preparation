@@ -89,6 +89,13 @@ const News = () => {
                             </div>
                         </div>
                     </div>
+                    <div className="flex justify-center m-2 shadow-md rounded-2xl ">
+                        <a className="rounded p-1 hover:bg-black font-medium hover:rounded-full m-2 hover:text-white" href="#">1</a>
+                        <a className="rounded p-1 hover:bg-black font-medium hover:rounded-full m-2 hover:text-white" href="#">2</a>
+                        <a className="rounded p-1 hover:bg-black font-medium hover:rounded-full m-2 hover:text-white" href="#">3</a>
+                        <a className="rounded p-1 hover:bg-black font-medium hover:rounded-full m-2 hover:text-white" href="#">...</a>
+                        <a className="rounded p-1 hover:bg-black font-medium hover:rounded-full m-2 hover:text-white" href="#"></a>
+                    </div>
                 </div>
             </section>
         </>
