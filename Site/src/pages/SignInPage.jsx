@@ -1,4 +1,4 @@
-const SignIn = () => {
+const SignInPage = () => {
     return (
         <>
             <div className="flex justify-center w-full">
@@ -35,4 +35,4 @@ const SignIn = () => {
     )
 }
 
-export {SignIn}
+export {SignInPage}

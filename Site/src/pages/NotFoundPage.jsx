@@ -1,4 +1,4 @@
-const NotFound = () => {
+const NotFoundPage = () => {
     return (
         <>
             <div className="flex items-center justify-center w-screen bg-gradient-to-r">
@@ -19,4 +19,4 @@ const NotFound = () => {
     )
 }
 
-export {NotFound}
+export {NotFoundPage}

@@ -1,4 +1,4 @@
-const Contacts = () => {
+const ContactsPage = () => {
     return (
         <>
             <div>
@@ -10,4 +10,4 @@ const Contacts = () => {
     )
 }
 
-export {Contacts}
+export {ContactsPage}

@@ -1,4 +1,4 @@
-const ForgotPassword = () => {
+const ForgotPasswordPage = () => {
     return (
         <>
             <div>
@@ -10,4 +10,4 @@ const ForgotPassword = () => {
     )
 }
 
-export {ForgotPassword}
+export {ForgotPasswordPage}

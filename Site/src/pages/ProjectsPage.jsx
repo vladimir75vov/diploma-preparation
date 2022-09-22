@@ -1,4 +1,4 @@
-const Projects = () => {
+const ProjectsPage = () => {
     return (
         <>
             <section class="text-gray-600 body-font">
@@ -63,4 +63,4 @@ const Projects = () => {
     )
 }
 
-export {Projects}
+export {ProjectsPage}

@@ -1,16 +1,16 @@
 import {Route, Routes, Navigate} from "react-router-dom";
 
 import {Layout} from "./components/Layout";
-import {Home} from "./pages/Home";
-import {News} from "./pages/News";
-import {Projects} from "./pages/Projects";
-import {Contacts} from "./pages/Contacts";
-import {JoinTheTeam} from "./pages/JoinTheTeam";
-import {NotFound} from "./pages/NotFound";
+import {HomePage} from "./pages/HomePage";
+import {NewsPage} from "./pages/NewsPage";
+import {ProjectsPage} from "./pages/ProjectsPage";
+import {ContactsPage} from "./pages/ContactsPage";
+import {JoinTheTeamPage} from "./pages/JoinTheTeamPage";
+import {NotFoundPage} from "./pages/NotFoundPage";
 
-import {SignIn} from "./pages/SignIn";
-import {SignUp} from "./pages/SignUp";
-import {ForgotPassword} from "./pages/ForgotPassword";
+import {SignInPage} from "./pages/SignInPage";
+import {SignUpPage} from "./pages/SignUpPage";
+import {ForgotPasswordPage} from "./pages/ForgotPasswordPage";
 
 
 function App() {
@@ -19,16 +19,16 @@ function App() {
             <Routes>
                 <Route path="/" element={<Layout/>}>
                     <Route index element={<Navigate to="/home" replace/>}/>
-                    <Route path="/home" element={<Home/>}/>
-                    <Route path="/news" element={<News/>}/>
-                    <Route path="/projects" element={<Projects/>}/>
-                    <Route path="/contacts" element={<Contacts/>}/>
-                    <Route path="/join-the-team" element={<JoinTheTeam/>}/>
-                    <Route path="/*" element={<NotFound/>}/>
+                    <Route path="/home" element={<HomePage/>}/>
+                    <Route path="/news" element={<NewsPage/>}/>
+                    <Route path="/projects" element={<ProjectsPage/>}/>
+                    <Route path="/contacts" element={<ContactsPage/>}/>
+                    <Route path="/join-the-team" element={<JoinTheTeamPage/>}/>
+                    <Route path="/*" element={<NotFoundPage/>}/>
 
-                    <Route path="/sign-in" element={<SignIn/>}/>
-                    <Route path="/sign-up" element={<SignUp/>}/>
-                    <Route path="/forgot-password" element={<ForgotPassword/>}/>
+                    <Route path="/sign-in" element={<SignInPage/>}/>
+                    <Route path="/sign-up" element={<SignUpPage/>}/>
+                    <Route path="/forgot-password" element={<ForgotPasswordPage/>}/>
                 </Route>
             </Routes>
         </>

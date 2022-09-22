@@ -1,4 +1,4 @@
-const JoinTheTeam = () => {
+const JoinTheTeamPage = () => {
     return (
         <>
             <div className="flex justify-center w-full">
@@ -322,4 +322,4 @@ const JoinTheTeam = () => {
     )
 }
 
-export {JoinTheTeam}
+export {JoinTheTeamPage}

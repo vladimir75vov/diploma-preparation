@@ -1,4 +1,4 @@
-const SignUp = () => {
+const SignUpPage = () => {
     return (
         <>
             <div>
@@ -10,4 +10,4 @@ const SignUp = () => {
     )
 }
 
-export {SignUp}
+export {SignUpPage}

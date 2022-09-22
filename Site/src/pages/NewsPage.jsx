@@ -1,4 +1,4 @@
-const News = () => {
+const NewsPage = () => {
     return (
         <>
             <section className="text-gray-600 body-font overflow-hidden">
@@ -102,4 +102,4 @@ const News = () => {
     )
 }
 
-export {News}
+export {NewsPage}
