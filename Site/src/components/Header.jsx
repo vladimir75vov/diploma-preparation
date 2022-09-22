@@ -3,7 +3,11 @@ import {useTranslation} from "react-i18next";
 
 
 const Header = () => {
-    const {t} = useTranslation()
+    const {t, i18n} = useTranslation()
+
+    const changeLanguage = (languages) => {
+        i18n.changeLanguage(languages).then()
+    }
 
     return (
         <>
@@ -13,7 +17,10 @@ const Header = () => {
                         <NavLink className="mr-5 hover:text-gray-900 " to="/home">{t("header.home")}</NavLink>
                         <NavLink className="mr-5 hover:text-gray-900" to="/news">{t("header.news")}</NavLink>
                         <NavLink className="mr-5 hover:text-gray-900" to="/projects">{t("header.projects")}</NavLink>
-                        <NavLink className="hover:text-gray-900" to="/contacts">{t("header.contacts")}</NavLink>
+                        <NavLink className="mr-5 hover:text-gray-900" to="/contacts">{t("header.contacts")}</NavLink>
+                        <button className="mr-5 hover:text-gray-900" onClick={() => changeLanguage("ru")}>RU</button>
+                        <button className="hover:text-gray-900" onClick={() => changeLanguage("en")}>EN</button>
+
                     </nav>
                     <NavLink
                         className="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0 hover:text-red-600"
