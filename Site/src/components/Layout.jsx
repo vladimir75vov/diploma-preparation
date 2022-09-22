@@ -24,7 +24,7 @@ const Layout = () => {
                     </NavLink>
                     <div className="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
                         <NavLink
-                            className="mr-5 inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0"
+                            className="mr-5 hover:text-gray-900 py-1"
                             to="/sign-in">Sign in</NavLink>
                         <NavLink
                             className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0"
@@ -179,7 +179,7 @@ const Layout = () => {
                                 </button>
                                 <button
                                     className="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center lg:ml-4 md:ml-0 ml-4 md:mt-4 mt-0 lg:mt-0 hover:bg-gray-200 focus:outline-none">
-                                    <img src="./images/getApp.gif" className="w-6 h-6"/>
+                                    <img src="/images/getApp.gif" className="w-6 h-6"/>
                                     <span className="ml-4 flex items-start flex-col leading-none">
                                         <span className="text-xs text-gray-600 mb-1">GET IT ON</span>
                                         <span className="title-font font-medium">Get App</span>
@@ -187,7 +187,7 @@ const Layout = () => {
                                 </button>
                                 <button
                                     className="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center lg:ml-4 md:ml-0 ml-4 md:mt-4 mt-0 lg:mt-0 hover:bg-gray-200 focus:outline-none">
-                                    <img src="./images/appGallery.gif" className="w-6 h-6"/>
+                                    <img src="/images/appGallery.gif" className="w-6 h-6"/>
                                     <span className="ml-4 flex items-start flex-col leading-none">
                                         <span className="text-xs text-gray-600 mb-1">GET IT ON</span>
                                         <span className="title-font font-medium">App Gallery</span>
