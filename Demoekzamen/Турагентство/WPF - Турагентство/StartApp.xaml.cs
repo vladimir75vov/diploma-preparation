@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF___Турагентство.Pages.Admin
+namespace WPF___Турагентство
 {
     /// <summary>
-    /// Interaction logic for EditExistingTour.xaml
+    /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class EditExistingTour : Window
+    public partial class StartApp : Window
     {
-        public EditExistingTour()
+        public StartApp()
         {
             InitializeComponent();
         }
