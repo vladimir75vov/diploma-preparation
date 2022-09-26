@@ -10,31 +10,31 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPF___Турагентство.Pages.Manager;
 
 namespace WPF___Турагентство
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Interaction logic for Manager.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Manager : Window
     {
-        public MainWindow()
+        public Manager()
         {
             InitializeComponent();
         }
 
-        private void buttonManager_Click(object sender, RoutedEventArgs e)
+        private void RegisterNewClient_Click(object sender, RoutedEventArgs e)
         {
-            Manager manager = new Manager();
-            manager.Show();
+            RegisterNewClient registerNewClient = new RegisterNewClient();
+            registerNewClient.Show();
         }
 
-        private void buttonAdmin_Click(object sender, RoutedEventArgs e)
+        private void PickUpTour_Click(object sender, RoutedEventArgs e)
         {
-            Admin admin = new Admin();
-            admin.Show();
+            PickUpTour pickUpTour = new PickUpTour();
+            pickUpTour.Show();
         }
     }
 }

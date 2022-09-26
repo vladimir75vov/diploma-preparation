@@ -12,29 +12,30 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPF___Турагентство.Pages.Admin;
 
 namespace WPF___Турагентство
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Interaction logic for Admin.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Admin : Window
     {
-        public MainWindow()
+        public Admin()
         {
             InitializeComponent();
         }
 
-        private void buttonManager_Click(object sender, RoutedEventArgs e)
+        private void buttonCreateNewTour_Click(object sender, RoutedEventArgs e)
         {
-            Manager manager = new Manager();
-            manager.Show();
+            CreateNewTour createNewTour = new CreateNewTour();
+            createNewTour.Show();
         }
 
-        private void buttonAdmin_Click(object sender, RoutedEventArgs e)
+        private void buttonEditExistingTour_Click(object sender, RoutedEventArgs e)
         {
-            Admin admin = new Admin();
-            admin.Show();
+            EditExistingTour editExistingTour = new EditExistingTour();
+            editExistingTour.Show();
         }
     }
 }
