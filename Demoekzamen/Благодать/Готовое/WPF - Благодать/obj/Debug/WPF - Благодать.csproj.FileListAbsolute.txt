@@ -20,3 +20,25 @@ C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Благодать\Готово�
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\Administrator\AdministratorPage.baml
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\Seller\SellerPage.baml
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\ShiftSupervisor\ShiftSupervisorPage.baml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\bin\Debug\WPF - Благодать.exe.config
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\bin\Debug\WPF - Благодать.exe
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\bin\Debug\WPF - Благодать.pdb
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\Administrator\AdministratorPage.g.cs
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\Seller\SellerPage.g.cs
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\ShiftSupervisor\ShiftSupervisorPage.g.cs
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать_MarkupCompile.cache
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать_MarkupCompile.lref
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\App.baml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\Administrator\AdministratorPage.baml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\Seller\SellerPage.baml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\Pages\ShiftSupervisor\ShiftSupervisorPage.baml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать.g.resources
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF___Благодать.Properties.Resources.resources
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать.exe
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Благодать\Готовое\WPF - Благодать\obj\Debug\WPF - Благодать.pdb
