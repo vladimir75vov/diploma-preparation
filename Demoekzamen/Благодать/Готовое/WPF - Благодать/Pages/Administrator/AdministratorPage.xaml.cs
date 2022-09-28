@@ -13,31 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF___Благодать
+namespace WPF___Благодать.Pages.Administrator
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for AdministratorPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class AdministratorPage : Page
     {
-        public MainWindow()
+        public AdministratorPage()
         {
             InitializeComponent();
-        }
-
-        private void buttonSeller_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void buttonShiftSupervisor_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void buttonAdministrator_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

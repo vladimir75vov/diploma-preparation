@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE80FC60-3BC9-4514-B425-A8241C5ED90B}</ProjectGuid>
+    <ProjectGuid>{88A61579-8401-4E5F-80AD-2C2C122488EF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>WPF___Благодать</RootNamespace>
     <AssemblyName>WPF - Благодать</AssemblyName>
@@ -33,6 +33,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Images\logo.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,8 +70,29 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\Administrator\AdministratorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Seller\SellerPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\ShiftSupervisor\ShiftSupervisorPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\Administrator\AdministratorPage.xaml.cs">
+      <DependentUpon>AdministratorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Seller\SellerPage.xaml.cs">
+      <DependentUpon>SellerPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ShiftSupervisor\ShiftSupervisorPage.xaml.cs">
+      <DependentUpon>ShiftSupervisorPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -93,6 +117,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\logo.ico" />
+    <Resource Include="Images\logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
