@@ -1,1 +1,25 @@
-https://docs.google.com/presentation/d/17YdUQJrXn2dPckjSeDarp3v6mYDyaHhsLKEFe0GpqEk/edit#slide=id.g138b9e5e5bc_0_0
+# Семестр 7. Главная
+## Ссылки
+- [Информация по демоэкзамену](https://api.dp.worldskills.ru/api/esatk/docs/4d0d9337-1f31-4306-89bb-f3b279e80642)
+## Скриншоты
+![изображение](https://user-images.githubusercontent.com/86486142/188391263-0ad59825-ea59-4a24-8a28-72737fdf1875.png)
+Система оценивания на демоэкзамене
+---
+![изображение](https://user-images.githubusercontent.com/86486142/188599047-651f31c4-8107-4fc9-b0d9-7353ead2182e.png)
+Задание 1: UML-диаграмма турагентства
+---
+![изображение](https://user-images.githubusercontent.com/86486142/189847875-a5179488-ec7e-4ef5-ba89-82b605550797.png)
+ER-диаграмма тестовой БД
+
+![изображение](https://user-images.githubusercontent.com/86486142/191195581-9b805413-d54e-469b-9474-b3289427b2d0.png)
+ER-диграмма GlazkiSave
+---
+![изображение](https://user-images.githubusercontent.com/86486142/192780250-ea8999ac-89e5-4c15-b085-9fc902ebf675.png)
+WPF приложение базы данных
+---
+## Организация
+Модуль 1: Анализ и проектирование требований, бизнес-процессов - UML-диаграмма<br>
+Модуль 2: Проектирование реляционного хранилища данных - создание БД<br>
+Модуль 3: Разработка баз данных, объектов баз данных и импорт - импорт из Excel-файла, текстового и CSV-файла<br>
+Модуль 4: Разработка desktop-приложений - WPF<br>
+Модуль 6: Создание инсталляторов - Inno Setup<br>
