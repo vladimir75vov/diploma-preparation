@@ -3,14 +3,19 @@ C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - �
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\bin\Debug\WPF - Турагентство.pdb
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство.csproj.AssemblyReference.cache
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство.csproj.SuggestedBindingRedirects.cache
-C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\StartApp.g.cs
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\App.g.cs
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство_MarkupCompile.cache
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство_MarkupCompile.lref
-C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\StartApp.baml
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство.g.resources
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF___Турагентство.Properties.Resources.resources
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство.csproj.GenerateResource.cache
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство.csproj.CoreCompileInputs.cache
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство.exe
 C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\WPF - Турагентство.pdb
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\Frames\EditingFrame.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\Frames\HotelFrame.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\MainTravelAgency.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\Frames\EditingFrame.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\Frames\HotelFrame.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\MainTravelAgency.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Турагентство\WPF - Турагентство\obj\Debug\App.baml

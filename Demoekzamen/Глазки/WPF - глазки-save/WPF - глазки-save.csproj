@@ -58,6 +58,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Frames\AdminFrame.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Frames\UserFrame.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainGlazkiSave.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -65,6 +73,12 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Frames\AdminFrame.xaml.cs">
+      <DependentUpon>AdminFrame.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Frames\UserFrame.xaml.cs">
+      <DependentUpon>UserFrame.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainGlazkiSave.xaml.cs">
       <DependentUpon>MainGlazkiSave.xaml</DependentUpon>
@@ -98,10 +112,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Глазки-save.ico" />
+    <Resource Include="Images\Глазки-save.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Глазки-save.png" />
+    <Resource Include="Images\Глазки-save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Глазки-save.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -4,8 +4,12 @@
              xmlns:local="clr-namespace:WPF___глазки_save"
              StartupUri="MainGlazkiSave.xaml">
     <Application.Resources>
-        <Style TargetType="TextBlock" >
-            <Setter Property="FontFamily" Value="Century Gothic"/>
-        </Style>
+    <Style TargetType="Label">
+        <Setter Property="FontFamily" Value="Century Gothic"/>
+    </Style>
+    <Style TargetType="Button">
+        <Setter Property="Background" Value="#B175EE"/>
+
+    </Style>
     </Application.Resources>
 </Application>

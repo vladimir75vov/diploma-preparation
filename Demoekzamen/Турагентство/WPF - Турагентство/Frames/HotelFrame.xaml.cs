@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF___Турагентство
+namespace WPF___Турагентство.Frames
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for HotelPage.xaml
     /// </summary>
-    public partial class StartApp : Window
+    public partial class HotelFrame : Page
     {
-        public StartApp()
+        public HotelFrame()
         {
             InitializeComponent();
         }

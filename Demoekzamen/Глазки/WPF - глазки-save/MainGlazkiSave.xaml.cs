@@ -1,17 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using WPF___глазки_save.frame;
 
 namespace WPF___глазки_save
 {
@@ -23,6 +12,26 @@ namespace WPF___глазки_save
         public MainGlazkiSave()
         {
             InitializeComponent();
+            framePages.Navigate(new User());
+        }
+
+        private void buttonAdmin_Click(object sender, RoutedEventArgs e)
+        {
+            framePages.Navigate(new Admin());
+        }
+        private void buttonUser_Click(object sender, RoutedEventArgs e)
+        {
+            framePages.Navigate(new User());
+        }
+        private void buttonBack_Click(object sender, RoutedEventArgs e)
+        {
+            framePages.GoBack();
+        }
+
+        private void framePages_Back(object sender, EventArgs e)
+        {
+            if (framePages.CanGoBack) { buttonBack.Visibility = Visibility.Visible; }
+            else { buttonBack.Visibility = Visibility.Hidden; }
         }
     }
 }
