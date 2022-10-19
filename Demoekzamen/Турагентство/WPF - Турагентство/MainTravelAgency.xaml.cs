@@ -25,12 +25,12 @@ namespace WPF___Турагентство
 
         private void buttonHotel_Click(object sender, RoutedEventArgs e)
         {
-
+            framePages.Navigate(new HotelFrame());
         }
 
         private void buttonEditing_Click(object sender, RoutedEventArgs e)
         {
-
+            framePages.Navigate(new EditingFrame());
         }
     }
 }
