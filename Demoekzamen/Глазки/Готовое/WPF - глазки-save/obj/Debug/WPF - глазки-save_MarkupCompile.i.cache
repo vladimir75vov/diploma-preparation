@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Глазки\WPF - глазки-save\obj\Debug\
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\obj\Debug\
 WPF___глазки_save
 none
 false
 DEBUG;TRACE
-C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\Глазки\WPF - глазки-save\App.xaml
-3-2095706146
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\App.xaml
+4-2031532330
 
-81388305062
-13-1310406943
-Frames\AdminFrame.xaml;Frames\UserFrame.xaml;MainGlazkiSave.xaml;
+10-70091821
+18881338001
+Frames\AdminFrame.xaml;Frames\AuthorizationFrame.xaml;Frames\UserFrame.xaml;MainGlazkiSave.xaml;
 
-True
+False
 

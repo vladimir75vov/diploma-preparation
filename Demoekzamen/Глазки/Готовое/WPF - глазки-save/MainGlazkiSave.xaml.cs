@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows;
-using WPF___глазки_save.frame;
+using WPF___глазки_save.Frames;
+using WPF___глазки_save.Utils;
 
 namespace WPF___глазки_save
 {
@@ -12,16 +13,23 @@ namespace WPF___глазки_save
         public MainGlazkiSave()
         {
             InitializeComponent();
-            framePages.Navigate(new User());
+            framePages.Navigate(new UserFrame());
         }
 
         private void buttonAdmin_Click(object sender, RoutedEventArgs e)
         {
-            framePages.Navigate(new Admin());
+            if (Authorization.authorization)
+            {
+                framePages.Navigate(new AdminFrame());
+            }
+            else
+            {
+                framePages.Navigate(new AuthorizationFrame());
+            }
         }
         private void buttonUser_Click(object sender, RoutedEventArgs e)
         {
-            framePages.Navigate(new User());
+            framePages.Navigate(new UserFrame());
         }
         private void buttonBack_Click(object sender, RoutedEventArgs e)
         {

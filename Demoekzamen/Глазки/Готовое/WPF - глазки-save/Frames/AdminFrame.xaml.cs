@@ -1,13 +1,13 @@
 ﻿using System.Windows.Controls;
 
-namespace WPF___глазки_save.frame
+namespace WPF___глазки_save.Frames
 {
     /// <summary>
     /// Interaction logic for Admin.xaml
     /// </summary>
-    public partial class Admin : Page
+    public partial class AdminFrame : Page
     {
-        public Admin()
+        public AdminFrame()
         {
             InitializeComponent();
         }
