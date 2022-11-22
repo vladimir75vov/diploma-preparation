@@ -56,3 +56,10 @@ C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Гот
 C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\obj\Debug\WPF - глазки-save.pdb
 C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\obj\Debug\Frames\AuthorizationFrame.g.cs
 C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\obj\Debug\Frames\AuthorizationFrame.baml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\obj\Debug\WPF - глазки-save_Content.g.cs
+C:\Users\Администратор\Desktop\7sem\Demoekzamen\Глазки\Готовое\WPF - глазки-save\obj\Debug\WPF - глазки-save.csproj.CopyComplete

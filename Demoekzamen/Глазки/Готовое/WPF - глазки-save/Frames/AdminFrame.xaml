@@ -9,6 +9,8 @@
       Title="Admin">
 
     <Grid>
-        <Label Content="Admin"/>
+        <Label x:Name="timerH" Content=""/>
+        <Label x:Name="timer" Content=""/>
+        <Label x:Name="timerS" Content=""/>
     </Grid>
 </Page>

@@ -1,4 +1,5 @@
-﻿using System.Windows.Controls;
+﻿using System.Linq;
+using System.Windows.Controls;
 
 namespace WPF___глазки_save.Utils
 {
@@ -15,14 +16,20 @@ namespace WPF___глазки_save.Utils
 
         static public bool signIn(string login, string pass)
         {
-            if (login == "vladimir75vov" && pass == "test")
+            ConnectDB.modeldb = new Requests.testglazkiavtorEntities();
+            Requests.User userObj = ConnectDB.modeldb.User.FirstOrDefault(x =>
+                x.Login == login && x.Password == pass);
+
+            if (userObj == null)
+            {
+                return _authorization;
+            }
+
+            if (login == userObj.Login && pass == userObj.Password)
             {
                 _authorization = true;
             }
-            else
-            {
-                _authorization = false;
-            }
+
             return _authorization;
         }
 
