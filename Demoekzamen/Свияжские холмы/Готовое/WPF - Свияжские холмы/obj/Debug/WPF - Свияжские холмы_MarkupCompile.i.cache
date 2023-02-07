@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\App.xaml
-41405853818
+10-1269279104
 21750853300
-21-90914698
+27282605072
 18-2045159726
-MainHills.xaml;pages\admin.xaml;pages\seller.xaml;pages\shiftSupervisor.xaml;
+MainHills.xaml;pages\admin.xaml;pages\seller.xaml;pages\shiftSupervisor.xaml;pages\user.xaml;windows\acceptOrder.xaml;windows\createOrder.xaml;windows\createReport.xaml;windows\loginHistory.xaml;windows\materialСosts.xaml;
 
 True
 

@@ -9,6 +9,22 @@
       Title="shiftSupervisor">
 
     <Grid>
-        <TextBlock>shiftSupervisor</TextBlock>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="buttonCreateOrder" Content="Создать заказ" Grid.Column="1" Click="buttonCreateOrder_Click"/>
+        <Button x:Name="buttonAcceptOrder" Content="Принять заказ" Grid.Column="2" Click="buttonAcceptOrder_Click"/>
     </Grid>
 </Page>

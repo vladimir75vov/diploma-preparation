@@ -35,3 +35,22 @@ C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Св
 C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\pages\seller.baml
 C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\pages\shiftSupervisor.baml
 C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\App.baml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\pages\User.g.cs
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\WPF - Свияжские холмы_Content.g.cs
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\pages\User.baml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\WPF - Свияжские холмы.csproj.CopyComplete
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\acceptOrder.g.cs
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\createOrder.g.cs
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\acceptOrder.baml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\createOrder.baml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\createReport.g.cs
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\loginHistory.g.cs
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\materialСosts.g.cs
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\createReport.baml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\loginHistory.baml
+C:\Users\Администратор\Desktop\diploma-preparation\Demoekzamen\Свияжские холмы\Готовое\WPF - Свияжские холмы\obj\Debug\windows\materialСosts.baml

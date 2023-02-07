@@ -9,6 +9,21 @@
       Title="seller">
 
     <Grid>
-        <TextBlock>seller</TextBlock>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="buttonCreateOrder" Content="Создать заказ" Grid.Column="1" Click="buttonCreateOrder_Click"/>
     </Grid>
 </Page>

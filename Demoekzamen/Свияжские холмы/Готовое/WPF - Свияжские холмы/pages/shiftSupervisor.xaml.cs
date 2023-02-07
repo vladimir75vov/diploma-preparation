@@ -1,28 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using WPF___Свияжские_холмы.windows;
 
 namespace WPF___Свияжские_холмы.pages
 {
-    /// <summary>
-    /// Логика взаимодействия для shiftSupervisor.xaml
-    /// </summary>
     public partial class shiftSupervisor : Page
     {
         public shiftSupervisor()
         {
             InitializeComponent();
+        }
+
+        private void buttonCreateOrder_Click(object sender, RoutedEventArgs e)
+        {
+            createOrder createOrder = new createOrder();
+            createOrder.Show();
+        }
+
+        private void buttonAcceptOrder_Click(object sender, RoutedEventArgs e)
+        {
+            acceptOrder acceptOrder = new acceptOrder();
+            acceptOrder.Show();
         }
     }
 }

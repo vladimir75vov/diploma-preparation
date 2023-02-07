@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF___Свияжские_холмы"
         mc:Ignorable="d"
-        Title="MainWindow" MinHeight="450" MinWidth="800">
+        Title="Свияжские холмы" MinHeight="450" MinWidth="800">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -23,9 +23,9 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Image Source="logo.png"/>
-        <Button x:Name="buttonAdmin" Content="Администратор" Grid.Column="1" />
-        <Button x:Name="buttonShiftSupervisor" Content="Старший смены" Grid.Column="2"/>
-        <Button x:Name="buttonSeller" Content="Продавец" Grid.Column="3"/>
-        <Frame Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" Grid.RowSpan="6"/>
+        <Button x:Name="buttonAdmin" Content="Администратор" Grid.Column="1" Click="buttonAdmin_Click"/>
+        <Button x:Name="buttonShiftSupervisor" Content="Старший смены" Grid.Column="2" Click="buttonShiftSupervisor_Click"/>
+        <Button x:Name="buttonSeller" Content="Продавец" Grid.Column="3" Click="buttonSeller_Click"/>
+        <Frame x:Name="frame" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" Grid.RowSpan="6"/>
     </Grid>
 </Window>

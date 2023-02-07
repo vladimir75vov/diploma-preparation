@@ -9,6 +9,23 @@
       Title="admin">
 
     <Grid>
-        <TextBlock>admin</TextBlock>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="buttonCreateReport" Content="Создать отчет" Grid.Column="1" Click="buttonCreateReport_Click"/>
+        <Button x:Name="buttonLoginHistory" Content="История входа" Grid.Column="2" Click="buttonLoginHistory_Click"/>
+        <Button x:Name="buttonMaterialСosts" Content="Расходы материалов" Grid.Column="3" Click="buttonMaterialСosts_Click"/>
     </Grid>
 </Page>
