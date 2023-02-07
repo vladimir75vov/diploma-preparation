@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF___Свияжские_холмы.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF___Свияжские_холмы"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Image Source="logo.png"/>
+        <Button x:Name="buttonAdmin" Content="Администратор" Grid.Column="1" />
+        <Button x:Name="buttonShiftSupervisor" Content="Старший смены" Grid.Column="2"/>
+        <Button x:Name="buttonSeller" Content="Продавец" Grid.Column="3"/>
+        <Frame Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4" Grid.RowSpan="6"/>
+    </Grid>
+</Window>

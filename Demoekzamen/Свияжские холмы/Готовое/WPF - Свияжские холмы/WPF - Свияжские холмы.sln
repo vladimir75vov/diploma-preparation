@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF - Свияжские холмы", "WPF - Свияжские холмы.csproj", "{60228883-35AB-4761-AFF0-37E2122EB7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60228883-35AB-4761-AFF0-37E2122EB7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60228883-35AB-4761-AFF0-37E2122EB7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60228883-35AB-4761-AFF0-37E2122EB7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60228883-35AB-4761-AFF0-37E2122EB7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6125A6DE-C1DB-426A-A3F1-C42B9E0FDB50}
+	EndGlobalSection
+EndGlobal
