@@ -1,0 +1,38 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF___ВТЕ.Pages"
+      xmlns:Models="clr-namespace:WPF___ВТЕ.Models" x:Class="WPF___ВТЕ.Pages.SysAdmin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Loaded="Page_Loaded"
+      Title="Системный администратор">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <DataGrid x:Name="UserGrid"
+                  AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="*" Binding="{Binding ID}"/>
+                <DataGridTextColumn Header="login" Width="*" Binding="{Binding login}"/>
+                <DataGridTextColumn Header="email" Width="*" Binding="{Binding email}"/>
+                <DataGridTextColumn Header="password" Width="*" Binding="{Binding password}"/>
+                <DataGridTextColumn Header="surname" Width="*" Binding="{Binding surname}"/>
+                <DataGridTextColumn Header="name" Width="*" Binding="{Binding name}"/>
+                <DataGridTextColumn Header="patronymic" Width="*" Binding="{Binding patronymic}"/>
+                <DataGridTextColumn Header="role" Width="*" Binding="{Binding Roles.role}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Добавить" Width="100" x:Name="AddData" Click="AddData_Click"/>
+            <Button Content="Удалить" Width="100" x:Name="RemoveData" Click="RemoveData_Click"/>
+            <Button Content="Изменить" Width="100" x:Name="EditData" Click="EditData_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

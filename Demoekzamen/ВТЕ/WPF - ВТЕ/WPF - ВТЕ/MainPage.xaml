@@ -1,0 +1,39 @@
+﻿<Window x:Class="WPF___ВТЕ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF___ВТЕ"
+        mc:Ignorable="d"
+        Title="Главное окно" MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Image Source="/logo.ico" Grid.Row="0" Grid.Column="1"/>
+        <TextBlock Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="7" Text="ВТЕ 'юго-восток'" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Frame x:Name="MainFrame" Grid.Row="1" Grid.RowSpan="8" Grid.Column="0" Grid.ColumnSpan="12" Source="/Pages/Login.xaml"/>
+    </Grid>
+</Window>

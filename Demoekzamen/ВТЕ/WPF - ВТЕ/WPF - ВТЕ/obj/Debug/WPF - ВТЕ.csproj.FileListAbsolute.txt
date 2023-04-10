@@ -1,0 +1,36 @@
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\bin\Debug\WPF - ВТЕ.exe.config
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\bin\Debug\WPF - ВТЕ.exe
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\bin\Debug\WPF - ВТЕ.pdb
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\bin\Debug\EntityFramework.dll
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\bin\Debug\EntityFramework.xml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.csproj.AssemblyReference.cache
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\App.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ_Content.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ_MarkupCompile.cache
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ_MarkupCompile.lref
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.g.resources
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF___ВТЕ.Properties.Resources.resources
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.csproj.GenerateResource.cache
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.csproj.CoreCompileInputs.cache
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.csproj.CopyComplete
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.exe
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\WPF - ВТЕ.pdb
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\MainPage.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Login.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\MainPage.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Login.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\SysAdmin.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\SysAdmin.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Administrator.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\ShiftSupervisor.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Visitor.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Worker.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Administrator.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\ShiftSupervisor.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Visitor.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\Worker.baml
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\SysAdminSec\AddDataUsers.g.cs
+C:\Users\vladimir75vov\Desktop\7sem\Demoekzamen\ВТЕ\WPF - ВТЕ\WPF - ВТЕ\obj\Debug\Pages\SysAdminSec\AddDataUsers.baml
